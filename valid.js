@@ -121,7 +121,7 @@ function Order() {
     text.style.display = "block";
 }
 
-Order()
+/*Order()*/
 
 
 const offer_text = document.querySelector('.offer_text')
